@@ -16,6 +16,7 @@ sections:
       - content/data/team/miles-tone.yaml
       - content/data/team/dianne-ameter.yaml
       - content/data/team/eleanor-carr.yaml
+      - content/data/team/person-23vhwugeg.json
 seo:
   title: Who We Are
   description: This is the about us page
