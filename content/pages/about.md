@@ -2,7 +2,7 @@
 title: Who We Are
 sections:
   - type: hero_section
-    title: Chi Siamo
+    title: Lezioni
     align: center
     background:
       background_color: white
