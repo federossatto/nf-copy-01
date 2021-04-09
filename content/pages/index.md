@@ -13,7 +13,7 @@ sections:
       background_image: images/image329.jpg
       background_image_opacity: 0
       background_image_size: cover
-      background_image_repeat: repeat
+      background_image_repeat: no-repeat
   - type: features_section
     title: Perché questo sito web?
     features:
