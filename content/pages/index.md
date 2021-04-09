@@ -84,7 +84,7 @@ sections:
       - label: lorem-ipsum
         url: '#'
         style: primary
-        new_window: true
+        new_window: false
         no_follow: false
         type: action
     has_background: false
