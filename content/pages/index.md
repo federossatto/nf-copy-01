@@ -17,10 +17,19 @@ sections:
   - type: features_section
     title: Perché questo sito web?
     features:
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+      - content: >+
+          Questo sito web è stato creato con il fine di poter aiutare i futuri
+          studenti con la nomenclatura. L’idea di questo sito è nata durante la
+          quarantena a causa del COVID-19, per passare il tempo, data la nostra
+          familiarità con la chimica e le materie scientifiche ci è sembrata
+          un’ottima idea iniziare questo progetto, inizialmente come se fosse un
+          gioco e ora come un contributo a chi dopo di noi dovrà affrontare
+          l’appassionante argomento della nomenclatura. Vi auguriamo di poter
+          comprendere e apprezzare la nomenclatura come noi l’abbiamo, la stiamo
+          e la apprezzeremo. Inoltre vi ricordiamo che è possibile inviare una
+          mail di feedback tramite l’indirizzo email che trovate nei contatti,
+          vi ringraziamo in anticipo per il vostro contributo;\<br>
+
         align: left
         image_alt: Feature 1 placeholder image
         image_position: right
