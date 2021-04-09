@@ -35,7 +35,7 @@ sections:
         style: secondary
     has_background: true
     background_color: blue
-  - title: lorem-ipsum
+  - title: CHI SIAMO
     subtitle: lorem-ipsum
     actions: []
     align: left
