@@ -79,7 +79,7 @@ sections:
         type: feature
         image: images/feature.svg
   - title: Feedback
-    subtitle: lorem-ipsum
+    subtitle: Inviaci un feedback
     actions: []
     has_background: false
     background_color: white
