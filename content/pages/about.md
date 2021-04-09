@@ -16,7 +16,7 @@ sections:
       - content/data/team/miles-tone.yaml
       - content/data/team/dianne-ameter.yaml
       - content/data/team/eleanor-carr.yaml
-  - title: lorem-ipsum
+  - title: 'Con l''aiuto di:'
     content: |+
       *   Edoardo: Grafica, spot e programmazione
 
