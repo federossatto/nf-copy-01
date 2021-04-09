@@ -35,10 +35,11 @@ sections:
         image_position: right
         actions: []
       - title: Lezioni
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Con queste semplici e concise lezioni, a cura di Luca, lo staff di
+          nomenclatura facile mette a vostra disposizione tutte le informazioni
+          necessarie per poter affrontare al meglio il fantastico argomento
+          della nomenclatura inorganica
         align: left
         image: images/feature.svg
         image_alt: Feature 2 placeholder image
