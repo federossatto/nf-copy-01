@@ -25,7 +25,8 @@
                 "url": "/style-guide",
                 "style": "link"
             }
-        ]
+        ],
+        "logo": "images/image367.png"
     },
     "footer": {
         "has_nav": true,
