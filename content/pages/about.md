@@ -36,7 +36,7 @@ sections:
     has_background: true
     background_color: blue
   - title: CHI SIAMO
-    tecolor: white
+    text_color: white
     actions: []
     align: left
     image_alt: lorem-ipsum
