@@ -41,7 +41,7 @@ sections:
     image_alt: lorem-ipsum
     image_position: left
     has_background: true
-    background: 
+    background:
       background_color: white
       background_image_opacity: 0
       background_image_size: cover
