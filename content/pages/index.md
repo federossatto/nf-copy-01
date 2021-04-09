@@ -79,7 +79,11 @@ sections:
         type: feature
         image: images/feature.svg
   - title: Feedback
-    subtitle: Inviaci un feedback
+    subtitle: >-
+      Qualunque feedback, anche se di poche parole, è ben accetto per avere un
+      riscontro sul nostro sito. Segnalateci eventuali problematiche riscontrate
+      o consigli che ci volete dare. Tutto ciò che bisogna fare è mettere il
+      vostro nome e una mail, ed il gioco è fatto.&nbsp;</h4>
     actions:
       - label: INVIA
         url: '#'
