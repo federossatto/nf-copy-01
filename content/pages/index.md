@@ -48,10 +48,11 @@ sections:
             url: /features
             style: secondary
       - title: Esercizi
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+        content: >
+          Con questi semplici ed intuitivi esercizi, a risposta multipla e a
+          risposta aperta, a cura di Federico e Micael, lo staff di nomenclatura
+          facile vi dà la possibilità di testare quanto appreso sul fantastico
+          argomento della nomenclatura inorganica
         align: left
         image: images/feature.svg
         image_alt: Feature 3 placeholder image
