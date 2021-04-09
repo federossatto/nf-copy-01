@@ -3,10 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: NOMENCLATURA FACILE
-    actions:
-      - label: Contact Us
-        url: /contact
-        style: secondary
+    actions: []
     align: left
     image_alt: Hero placeholder image
     image_position: right
