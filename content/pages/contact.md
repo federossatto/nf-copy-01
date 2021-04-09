@@ -2,7 +2,7 @@
 title: Contact
 sections:
   - type: hero_section
-    title: Contact
+    title: Feedback
     align: center
   - type: contact_section
 seo:
