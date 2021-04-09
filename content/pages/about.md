@@ -12,7 +12,6 @@ sections:
       background_image: images/image329.jpg
   - type: content_section
   - type: team_section
-    title: Our Team
     team:
       - content/data/team/miles-tone.yaml
       - content/data/team/dianne-ameter.yaml
