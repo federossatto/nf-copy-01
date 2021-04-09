@@ -60,7 +60,7 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-      - title: lorem-ipsum
+      - title: Staff
         content: >-
           ## Lorem ipsum
 
