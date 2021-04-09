@@ -34,7 +34,7 @@ sections:
         url: /contact
         style: secondary
     has_background: true
-    background_color: blue
+    background_color: white
   - title: CHI SIAMO
     actions: []
     align: left
