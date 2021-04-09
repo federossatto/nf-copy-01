@@ -81,7 +81,7 @@ sections:
   - title: Feedback
     subtitle: Inviaci un feedback
     actions:
-      - label: lorem-ipsum
+      - label: INVIA
         url: '#'
         style: primary
         new_window: false
