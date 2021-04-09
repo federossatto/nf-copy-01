@@ -48,7 +48,7 @@ sections:
       background_image_repeat: no-repeat
       background_image: images/interesting-octopus.jpg
     type: hero_section
-  - title: lorem-ipsum
+  - title: CIAO
     subtitle: lorem-ipsum
     actions: []
     align: left
