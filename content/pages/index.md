@@ -83,7 +83,7 @@ sections:
       Qualunque feedback, anche se di poche parole, è ben accetto per avere un
       riscontro sul nostro sito. Segnalateci eventuali problematiche riscontrate
       o consigli che ci volete dare. Tutto ciò che bisogna fare è mettere il
-      vostro nome e una mail, ed il gioco è fatto.&nbsp;</h4>
+      vostro nome e una mail, ed il gioco è fatto
     actions:
       - label: INVIA
         url: '#'
