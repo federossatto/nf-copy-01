@@ -25,7 +25,8 @@
                 "style": "link"
             }
         ],
-        "logo": "images/image367.png"
+        "logo": "images/image367.png",
+        "title": "NF"
     },
     "footer": {
         "has_nav": true,
