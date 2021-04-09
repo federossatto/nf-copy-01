@@ -16,13 +16,6 @@ sections:
       - content/data/team/miles-tone.yaml
       - content/data/team/dianne-ameter.yaml
       - content/data/team/eleanor-carr.yaml
-  - title: CHI SIAMO
-    actions: []
-    align: left
-    image_alt: lorem-ipsum
-    image_position: left
-    has_background: true
-    type: hero_section
 seo:
   title: Who We Are
   description: This is the about us page
