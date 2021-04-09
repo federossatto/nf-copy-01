@@ -62,17 +62,10 @@ sections:
             url: /features
             style: secondary
       - title: Staff
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Con una sezione apposita, lo staff di nomenclatura facile si mette a
+          vostra totale disposizione, per poter risolvere eventuali problemi da
+          voi riscontrati e per poter assecondare le vostre proposte
         align: right
         image_alt: lorem-ipsum
         image_position: left
