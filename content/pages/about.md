@@ -36,7 +36,6 @@ sections:
     has_background: true
     background_color: blue
   - title: CHI SIAMO
-    
     actions: []
     align: left
     image_alt: lorem-ipsum
