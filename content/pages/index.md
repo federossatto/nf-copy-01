@@ -4,9 +4,6 @@ sections:
   - type: hero_section
     title: NOMENCLATURA FACILE
     actions:
-      - label: Learn More
-        url: /features
-        style: primary
       - label: Contact Us
         url: /contact
         style: secondary
