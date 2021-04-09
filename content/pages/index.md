@@ -78,7 +78,7 @@ sections:
         actions: []
         type: feature
         image: images/feature.svg
-  - title: lorem-ipsum
+  - title: Feedback
     subtitle: lorem-ipsum
     actions: []
     has_background: false
