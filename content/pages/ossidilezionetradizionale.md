@@ -10,7 +10,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - url: '#'
+      - url: /ossidilezioneiupac
         style: secondary
         new_window: false
         no_follow: false
