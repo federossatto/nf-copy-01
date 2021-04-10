@@ -5,7 +5,7 @@ sections:
     title: OSSIDI
     actions:
       - label: TRADIZIONALE
-        url: '#/ossidi'
+        url: /ossidilezionetradizionale/
         style: primary
         new_window: false
         no_follow: false
