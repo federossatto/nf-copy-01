@@ -10,7 +10,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: DAPUI
+      - label: UI
         url: '#'
         style: secondary
         new_window: false
