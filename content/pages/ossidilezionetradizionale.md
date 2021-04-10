@@ -12,7 +12,7 @@ sections:
         type: action
       - label: lorem-ipsum
         url: '#'
-        style: secondary
+        style: primary
         new_window: false
         no_follow: false
         type: action
