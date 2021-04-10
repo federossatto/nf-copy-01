@@ -14,7 +14,6 @@ sections:
       background_image_size: cover
       background_image_repeat: no-repeat
   - type: features_section
-    title: Perché questo sito web?
     features:
       - title: Definizione
         content: >+
