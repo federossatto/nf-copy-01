@@ -44,11 +44,7 @@ sections:
         image_position: left
         actions: []
       - title: Come si formano
-        content: >
-          Con questi semplici ed intuitivi esercizi, a risposta multipla e a
-          risposta aperta, a cura di Federico e Micael, lo staff di nomenclatura
-          facile vi dà la possibilità di testare quanto appreso sul fantastico
-          argomento della nomenclatura inorganica
+        content: "**FORMULA BRUTA**\n\nPrendendo come esempio l’idrogeno e il ferro, bisogna innanzitutto sapere le valenze. Valenza H=1 e valenze Fe= 2 e 3 ma in questo caso 2. Nei composti binari, per scrivere la formula bruta, è necessario invertire le valenze degli elementi, quindi il composto sarà FeH2\_(1 non si scrive).\n\n**\_**\n\n**N.B.:\_**negli idruri l’idrogeno è posizionato sempre dopo il metallo perché ha l’elettronegatività costantemente superiore.\n\n**\_**\n\n**NOME**\n\nPer quanto riguarda il nome si scrive sempre idruro seguito da:\n\n\_\n\n\_1.\_ di + NOME DELL’ELEMENTO se quest’ultimo ha solo un numero come valenza.\n\n\_\n\n\_\_\_\_ \_\_\_\_\_*NaH idruro di sodio*\n\n\_\n\n2\\. NOME DELL’ELEMENTO con le seguenti desinenze in base alla valenza utilizzata:\n\n\_\_\_\_ -ico se si usa la valenza più alta, -oso se si usa la più bassa.\n\n\_\n\n*FeH2\_idruro ferroso*\n\n*FeH3\_idruro ferrico*\n\n\_\n\n**N.B.:\_**per alcuni elementi si usano altre radici come ad esempio per l’oro che si scrive aurico o auroso.\n\n\_\n\nInoltre alcuni composti vengono chiamati con altri nomi:\n\n*\_\_\_\_\_\_\_ \_\_\_\_\_\_\_ CH4\_metano*\n\n*\_\_\_\_\_\_\_ \_\_\_\_\_\_\_ NH3\_ammoniaca*\n\n*\_\_\_\_\_\_\_ \_\_\_\_\_\_\_ PH3\_fosfina*\n"
         align: left
         image_alt: Feature 3 placeholder image
         image_position: right
