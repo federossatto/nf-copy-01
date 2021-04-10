@@ -27,6 +27,12 @@ sections:
     show_recent: false
     recent_count: 0
     type: blog_feed_section
+  - title: lorem-ipsum
+    subtitle: lorem-ipsum
+    actions: []
+    has_background: false
+    background_color: white
+    type: cta_section
 seo:
   title: Who We Are
   description: This is the about us page
