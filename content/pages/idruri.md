@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Idruri  lezione tradizionale
 sections:
   - type: hero_section
     title: IDRURI
