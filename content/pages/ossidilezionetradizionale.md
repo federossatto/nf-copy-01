@@ -16,11 +16,12 @@ sections:
   - type: features_section
     features:
       - title: Definizione
-        content: >+
-          Gli idruri sono una classe di composti binari, ovvero formati da due
-          elementi, uno dei quali è sempre l'idrogeno H e l'altro è
-          costantemente un metallo.
+        content: >
+          Gli ossidi sono composti binari, ovvero formati da due elementi, uno
+          dei quali è sempre l’ossigeno O e l’altro è costantemente un metallo.
 
+
+          ****
         align: left
         image_alt: Feature 2 placeholder image
         image_position: left
