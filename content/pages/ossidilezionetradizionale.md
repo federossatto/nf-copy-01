@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: OSSIDI
     actions:
-      - label: C
+      - label: Clicca qui per la lezione IUPAC
         url: '#'
         style: secondary
         new_window: false
