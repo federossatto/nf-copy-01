@@ -43,7 +43,7 @@ sections:
         image_alt: Feature 2 placeholder image
         image_position: left
         actions: []
-      - title: Esercizi
+      - title: Come si formano
         content: >
           Con questi semplici ed intuitivi esercizi, a risposta multipla e a
           risposta aperta, a cura di Federico e Micael, lo staff di nomenclatura
