@@ -1,5 +1,5 @@
 ---
-title: Idruri  lezione tradizionale
+title: Ossidi lezione tradizionale
 sections:
   - type: hero_section
     title: OSSIDI
