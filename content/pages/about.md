@@ -34,6 +34,9 @@ sections:
     background_color: white
     type: cta_section
   - title: lorem-ipsum
+    features: []
+    type: features_section
+  - title: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
