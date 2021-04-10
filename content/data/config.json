@@ -26,7 +26,8 @@
             }
         ],
         "logo": "images/image367.png",
-        "title": "NF"
+        "title": "NF",
+        "logo_alt": "NOMENCLATURA FACILE"
     },
     "footer": {
         "has_nav": true,
