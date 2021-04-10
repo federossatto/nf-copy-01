@@ -50,7 +50,6 @@ sections:
           facile vi dà la possibilità di testare quanto appreso sul fantastico
           argomento della nomenclatura inorganica
         align: left
-        image: images/feature.svg
         image_alt: Feature 3 placeholder image
         image_position: right
         actions:
