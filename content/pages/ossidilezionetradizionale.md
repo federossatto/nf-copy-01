@@ -4,12 +4,6 @@ sections:
   - type: hero_section
     title: OSSIDI
     actions:
-      - label: IUPAC
-        url: /ossidilezioneiupac
-        style: secondary
-        new_window: false
-        no_follow: false
-        type: action
       - label: TRADIZIONALE
         url: '#'
         style: primary
