@@ -33,7 +33,7 @@ sections:
         image_alt: Feature 1 placeholder image
         image_position: right
         actions: []
-      - title: Lezioni
+      - title: Definizione
         content: >
           Con queste semplici e concise lezioni, a cura di Luca, lo staff di
           nomenclatura facile mette a vostra disposizione tutte le informazioni
