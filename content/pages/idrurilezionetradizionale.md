@@ -10,7 +10,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: lorem-ipsum
+      - label: CAPUI
         url: '#'
         style: link
         new_window: false
