@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: OSSIDI
     actions:
-      - label: lorem-ipsum
+      - label: ilC
         url: '#'
         style: secondary
         new_window: false
