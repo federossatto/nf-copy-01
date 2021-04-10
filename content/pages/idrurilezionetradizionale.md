@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: IDRURI
     actions:
-      - label: NALE
+      - label: oNALE
         url: '#'
         style: primary
         new_window: false
