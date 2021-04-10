@@ -23,6 +23,10 @@ sections:
       *   Federica, Margherita e Simone: tester nella fase alpha
 
     type: content_section
+  - title: lorem-ipsum
+    show_recent: false
+    recent_count: 0
+    type: blog_feed_section
 seo:
   title: Who We Are
   description: This is the about us page
