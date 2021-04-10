@@ -49,17 +49,6 @@ sections:
         image_alt: Feature 3 placeholder image
         image_position: right
         actions: []
-      - title: Staff
-        content: >
-          Con una sezione apposita, lo staff di nomenclatura facile si mette a
-          vostra totale disposizione, per poter risolvere eventuali problemi da
-          voi riscontrati e per poter assecondare le vostre proposte
-        align: right
-        image_alt: lorem-ipsum
-        image_position: left
-        actions: []
-        type: feature
-        image: images/feature.svg
 seo:
   title: Stackbit Starter Theme
   description: The preview of the Starter theme
