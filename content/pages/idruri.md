@@ -34,11 +34,11 @@ sections:
         image_position: right
         actions: []
       - title: Definizione
-        content: >
-          Con queste semplici e concise lezioni, a cura di Luca, lo staff di
-          nomenclatura facile mette a vostra disposizione tutte le informazioni
-          necessarie per poter affrontare al meglio il fantastico argomento
-          della nomenclatura inorganica
+        content: >+
+          Gli idruri sono una classe di composti binari, ovvero formati da due
+          elementi, uno dei quali è sempre l'idrogeno H e l'altro è
+          costantemente un metallo.
+
         align: left
         image_alt: Feature 2 placeholder image
         image_position: left
