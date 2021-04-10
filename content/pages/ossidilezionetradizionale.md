@@ -2,7 +2,7 @@
 title: Idruri  lezione tradizionale
 sections:
   - type: hero_section
-    title: IDRURI
+    title: ossidi
     actions: []
     align: left
     image_alt: Hero placeholder image
