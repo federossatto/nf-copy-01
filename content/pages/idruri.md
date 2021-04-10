@@ -42,10 +42,7 @@ sections:
         align: left
         image_alt: Feature 2 placeholder image
         image_position: left
-        actions:
-          - label: Vai alla pagina
-            url: /features
-            style: secondary
+        actions: []
       - title: Esercizi
         content: >
           Con questi semplici ed intuitivi esercizi, a risposta multipla e a
