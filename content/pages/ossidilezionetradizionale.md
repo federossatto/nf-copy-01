@@ -10,7 +10,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-    align: center
+    align: left
     image_alt: Hero placeholder image
     image_position: right
     has_background: true
