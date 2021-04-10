@@ -40,7 +40,6 @@ sections:
           necessarie per poter affrontare al meglio il fantastico argomento
           della nomenclatura inorganica
         align: left
-        image: images/feature.svg
         image_alt: Feature 2 placeholder image
         image_position: left
         actions:
