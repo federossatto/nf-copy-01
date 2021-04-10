@@ -72,22 +72,6 @@ sections:
         actions: []
         type: feature
         image: images/feature.svg
-  - title: Feedback
-    subtitle: >-
-      Qualunque feedback, anche se di poche parole, è ben accetto per avere un
-      riscontro sul nostro sito. Segnalateci eventuali problematiche riscontrate
-      o consigli che ci volete dare. Tutto ciò che bisogna fare è mettere il
-      vostro nome e una mail, ed il gioco è fatto
-    actions:
-      - label: INVIA
-        url: '#'
-        style: primary
-        new_window: false
-        no_follow: false
-        type: action
-    has_background: false
-    background_color: white
-    type: cta_section
 seo:
   title: Stackbit Starter Theme
   description: The preview of the Starter theme
