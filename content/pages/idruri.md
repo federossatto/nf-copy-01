@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: NOMENCLATURA FACILE
+    title: IDRURI
     actions: []
     align: left
     image_alt: Hero placeholder image
