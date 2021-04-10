@@ -15,6 +15,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
+        label: IUPAC
     align: left
     image_alt: Hero placeholder image
     image_position: right
