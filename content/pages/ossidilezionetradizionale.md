@@ -10,7 +10,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: UI
+      - label: ui
         url: '#'
         style: secondary
         new_window: false
