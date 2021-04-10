@@ -48,10 +48,7 @@ sections:
         align: left
         image_alt: Feature 3 placeholder image
         image_position: right
-        actions:
-          - label: Vai alla pagina
-            url: /features
-            style: secondary
+        actions: []
       - title: Staff
         content: >
           Con una sezione apposita, lo staff di nomenclatura facile si mette a
